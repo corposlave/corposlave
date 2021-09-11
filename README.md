@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @corposlave
+- 👋 Hi, I’m Rodger
 - 👀 I’m interested in learning python and data science
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on data science
